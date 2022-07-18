@@ -137,7 +137,8 @@ nav ul li a {
   margin: 24px 8px 0 0;
 }
 .btns button,
-.projects .allproject {
+.projects .allproject,
+.allproject {
   padding: 20px;
   font-size: 20px;
   border-radius: 20px;
@@ -480,6 +481,7 @@ form .btnform button:hover {
 /* ! Certificate */
 .certificates {
   width: 100vw;
+  height: 50%;
   margin: 10px auto;
 }
 .nav {
@@ -487,31 +489,32 @@ form .btnform button:hover {
   justify-content: center;
 }
 .certificates h1 {
+  width: 100%;
   text-align: center;
-  padding: 20px;
-  height: 15vh;
+  padding: 10px;
+  margin-bottom: 10px;
   /* margin-left: 150px; */
   /* margin-top: 50px; */
   font-family: var(--font1);
 }
+/*
 .certificates a button {
-  position: absolute;
-  /* float: right; */
-  right: 20px;
-  top: 20px;
-  width: 15%;
-  padding: 20px;
-  font-size: 20px;
-  border-radius: 20px;
-  color: white;
-  background-color: var(--primary-color);
-  outline: none;
-  border: 1px solid rgb(255, 255, 255);
+   designed in projects section
 }
+*/
+
 /* .certificates button:hover{
   ! declared in index.html
 } */
-
+.certificates .allproject{
+  padding: 15px;
+  top: 60px;
+  float: right;
+  font-size: 15px;
+  width: 170px;
+  right: 20px;
+  position: absolute;
+}
 .row1,
 .row2,
 .row3 {
@@ -527,7 +530,7 @@ form .btnform button:hover {
   padding: 9px;
   border: 0.1rem dashed white;
   transform: scale(0.85);
-  inset: 20px;
+  /* inset: 20px; */
 }
 .row1 .cer a img:hover,
 .row2 .cer a img:hover,
@@ -562,7 +565,7 @@ form .btnform button:hover {
   /* margin-left: 20px; */
   /* position: absolute; */
 }
-.projects .allproject {
+.projects .allproject{
   padding: 10px;
   float: right;
   font-size: 15px;
@@ -679,6 +682,7 @@ footer{
   .blogcontainer h1{
     padding: 10px;
   }
+  
 }
 
 @media (max-width:1090px){
@@ -697,3 +701,36 @@ footer{
   }
 }
 
+@media (max-width:1014px) {
+.row1,
+.row2,
+.row3 {
+  flex-direction: column;
+  /* margin-left: 10px; */
+}
+}
+@media (max-width:490px){
+  .row1 .cer img{
+    margin-top: 15px;
+  }
+  .row1 .cer img,
+.row2 .cer img,
+.row3 .cer img {
+  width: 100%;
+  padding: 9px;
+  border: 0.1rem dashed white;
+  transform: scale(0.85);
+  /* inset: 20px; */
+}
+.certificates .allproject{
+  position: absolute;
+  right: 0;
+  top: 110px;
+  padding: 8px;
+  width: 150px;
+}
+.certificates h1{
+  margin-left: 0;
+  margin-top: 10px;
+}
+}
