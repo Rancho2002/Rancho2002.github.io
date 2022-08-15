@@ -1,53 +1,47 @@
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
 
+### Hi there 👋 I'm [Arijit Ghosh](https://personalpages.github.io/portfolio/)
 
-<h1 align='center'>
-  Hi there 👋 I'm Arijit/Rancho2002 👨‍💻
-</h1>
+<img src="https://komarev.com/ghpvc/?username=rancho2002" alt="rancho2002" />
 
-<p align='center'>
-  A explorer in the field of Web, Android & Programming.
+<div>
+ <p>
+I am a Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+
+I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+</p>
+</div>
+
+### Programming Languages 🌐
+
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" width="24">](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="24">](https://vuejs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
+|---|---|---|---|---|---|
+ 
+### Tools 🛠️
+
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" width="24">](https://redis.io/) | Varnish Cache | many more...
+|---|---|---|---|---|---|---|---|---|
+
+### Github Stats
+
+[![Arijit Ghosh GitHub stats](https://github-readme-stats.vercel.app/api?username=rancho2002)](https://github.com/rancho2002/)
+
+### Github Repos
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rancho2002&repo=RICdynamic&show_owner=true)](https://github.com/Rancho2002/RICdynamic)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rancho2002&repo=C-projects&show_owner=true)](https://github.com/Rancho2002/C-projects)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://personalpages.github.io/portfolio/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-Arijit%20Ghosh-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/rancho2002/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@rancho2002-blue?style=flat&logo=linkedin"></a>
+<a href="https://stackoverflow.com/users/18928490/arijit-ghosh?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Arijit%20Ghosh-blue?style=flat&logo=stackoverflow"></a>
+<a href="mailto:subhasghosh196@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-subhasghosh196@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 
-
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/arijit-ghosh-902a4b220/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/arijit_089/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-</p>
-
-<!-- <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p> -->
-
-<!-- <p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
- -->
-<!-- <details align='center'>
-  <summary>:zap: My workspace specs</summary>
-</details>-->
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:subhasghosh196@gmail.com'>subhasghosh196@gmail.com</a>
-</p>
-<p align='center'>
-  📫 How to reach me: <a href='mailto:subhasghosh196@gmail.com'>subhasghosh196@gmail.com</a>
-</p>
-<p align ='center'>
-🌐💻 Visit My website here 🌐💻👉: <a href="https://rancho2002.github.io/"> My Portfolio </a>
-</p>
-
+⭐️ From [@rancho2002](https://github.com/rancho2002)
