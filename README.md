@@ -31,7 +31,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rancho2002&repo=RICdynamic&show_owner=true)](https://github.com/Rancho2002/RICdynamic)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rancho2002&repo=collegecatalyst&show_owner=true)](https://github.com/Rancho2002/collegecatalyst)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rancho2002&repo=C-projects&show_owner=true)](https://github.com/Rancho2002/C-projects)
 
 <h3> 🤝🏻 Connect with Me </h3>
